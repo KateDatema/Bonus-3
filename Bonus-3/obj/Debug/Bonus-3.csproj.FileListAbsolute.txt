@@ -1,0 +1,6 @@
+/Users/katedatema/Projects/Bonus-3/Bonus-3/bin/Debug/Bonus-3.exe
+/Users/katedatema/Projects/Bonus-3/Bonus-3/bin/Debug/Bonus-3.pdb
+/Users/katedatema/Projects/Bonus-3/Bonus-3/obj/Debug/Bonus-3.csprojAssemblyReference.cache
+/Users/katedatema/Projects/Bonus-3/Bonus-3/obj/Debug/Bonus-3.csproj.CoreCompileInputs.cache
+/Users/katedatema/Projects/Bonus-3/Bonus-3/obj/Debug/Bonus-3.exe
+/Users/katedatema/Projects/Bonus-3/Bonus-3/obj/Debug/Bonus-3.pdb

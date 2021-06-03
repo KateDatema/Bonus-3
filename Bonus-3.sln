@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonus-3", "Bonus-3\Bonus-3.csproj", "{F491678E-47EE-49F8-AA0F-81F61581D92A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F491678E-47EE-49F8-AA0F-81F61581D92A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F491678E-47EE-49F8-AA0F-81F61581D92A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F491678E-47EE-49F8-AA0F-81F61581D92A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F491678E-47EE-49F8-AA0F-81F61581D92A}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D1002B1-2AF5-46DD-BA86-260A55CF1170}
+	EndGlobalSection
+EndGlobal
